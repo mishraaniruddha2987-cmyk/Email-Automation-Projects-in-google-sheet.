@@ -5,6 +5,7 @@ This Google Apps Script automatically sends **payment reminder emails** to custo
 ## 📋 Sheet Structure
 ![Project Preview](https://github.com/mishraaniruddha2987-cmyk/Email-Automation-Projects-in-google-sheet./blob/main/Capture2.PNG)
 ![Project Preview](https://github.com/mishraaniruddha2987-cmyk/Email-Automation-Projects-in-google-sheet./blob/main/Capture1.PNG)
+![Project Preview](https://github.com/mishraaniruddha2987-cmyk/Email-Automation-Projects-in-google-sheet./blob/main/Screenshot_2026-03-09-11-26-45-58_e307a3f9df9f380ebaf106e1dc980bb6.jpg)
 This Google Apps Script automatically sends **payment reminder emails** to customers using data stored in a Google Sheet.
 
 ## 📋 Sheet Structure
